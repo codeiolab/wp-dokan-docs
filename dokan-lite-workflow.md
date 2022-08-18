@@ -23,6 +23,7 @@
     $this->define( 'DOKAN_LOAD_SCRIPTS', true );
 
 ### Activation hook
+**Dokan installer** is run if the woocommerce is exists and also loaded the common helper functions.
 
     /**
      * Placeholder for activation function
